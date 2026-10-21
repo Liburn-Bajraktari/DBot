@@ -1,7 +1,11 @@
+# Project is no longer being maintained (for a while now actually :P)
+
+
+
 # Read Me
 Discord Music Bot that still works. Still in development, and will probably forever be something you need to host for your own server (or not, idk.)
 
-I am still very new to programming, especialy with the two languages I am using here, so if you have any suggestions or constructive criticism, you are more than welcome to inform me.
+I am still very new to programming, especially with the two languages I am using here, so if you have any suggestions or constructive criticism, you are more than welcome to inform me.
 
 Feel free to do whatever you want with this, since this is just a fun project im doing to practice.
 
